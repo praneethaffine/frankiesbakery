@@ -8,5 +8,8 @@
       "route": "/bakery/*",
       "serve": "/bakery/index.html"
     }
-  ]
+  ],
+   "mimeTypes": {
+      ".json": "text/json"
+    }
 }
