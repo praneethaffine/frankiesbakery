@@ -10,6 +10,6 @@
     }
   ],
    "mimeTypes": {
-      ".json": "text/json"
+      ".json": "text/javascript"
     }
 }
