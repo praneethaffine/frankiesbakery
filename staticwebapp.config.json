@@ -8,7 +8,7 @@
   },
    "routes": [
    {
-     "route": "/bakery/*",
+     "route": "/bakery/",
      "serve": "/index.html"
    }
  ]
