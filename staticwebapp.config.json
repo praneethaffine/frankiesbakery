@@ -2,12 +2,6 @@
   "navigationFallback": {
     "rewrite": "/index.html"
   },
-  "routes": [
-    {
-      "route": "/bakery/*",
-      "serve": "/index.html"
-    }
-  ],
   "mimeTypes": {
     ".json": "application/json"
   }
